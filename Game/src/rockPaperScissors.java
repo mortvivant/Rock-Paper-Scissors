@@ -55,7 +55,7 @@ public class rockPaperScissors {
         }
         if (pc>you){
             System.out.println("-----------------");
-            System.out.println("You lose to PC");
+            System.out.println("You lost to PC");
             System.out.println(you+":"+pc);
         }else {
             System.out.println("-----------------");
